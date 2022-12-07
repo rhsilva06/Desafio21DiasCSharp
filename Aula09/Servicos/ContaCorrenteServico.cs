@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 
 namespace Aula09.Servicos
 {
-    class ContaCorrenteServico
+    public class ContaCorrenteServico
     {
         private  ContaCorrenteServico() { }
 

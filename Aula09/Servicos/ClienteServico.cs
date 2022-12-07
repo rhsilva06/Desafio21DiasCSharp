@@ -2,7 +2,7 @@
 
 namespace Aula09.Servicos
 {
-    class ClienteServico
+    public class ClienteServico
     {
         private ClienteServico() { }
 
